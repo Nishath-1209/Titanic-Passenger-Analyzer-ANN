@@ -1,7 +1,8 @@
 streamlit
-keras
 numpy
+plotly
 pandas
-matplotlib
 scikit-learn
+tensorflow
+keras
 h5py
